@@ -14,9 +14,9 @@ config.keys = {
 config.colors = {
 	-- Basic colors
 	foreground = "#abb2bf", -- OneDark foreground (slightly lighter than iTerm2)
-	background = "#282c34", -- OneDark blue-gray background (matches Neovim in iTerm2)
+	background = "#000000", -- Pure black background
 	cursor_bg = "#528bff", -- OneDark cursor blue
-	cursor_fg = "#282c34", -- Cursor text color
+	cursor_fg = "#000000", -- Cursor text color
 	cursor_border = "#528bff",
 	selection_fg = "#282c34",
 	selection_bg = "#3e4451", -- OneDark selection color
